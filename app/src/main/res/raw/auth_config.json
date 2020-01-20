@@ -1,0 +1,14 @@
+{
+  "client_id" : "7dec24d3-c7c9-4ac5-a8b7-3e7b4a6916af",
+  "authorization_user_agent" : "DEFAULT",
+  "redirect_uri" : "msauth://com.poligran.poligo/M05IhBlQOh9jpg%2F2ocIx5QE4VS4%3D",
+  "authorities" : [
+    {
+      "type": "AAD",
+      "audience": {
+        "type": "AzureADMultipleOrgs",
+        "tenant_id": "organizations"
+      }
+    }
+  ]
+}
